@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cedfas.  I'm interested in developing my Cypress skills that I have been using over the past few years.
+- 👋 Hi, I'm JR.  I'm interested in developing my Cypress skills that I have been using over the past few years.
 - I'm using this space to continue my learning and to share with those who are interested.
 
 <!---
